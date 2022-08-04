@@ -9,5 +9,6 @@ Check out these things that I've made:
 * [congol.net](https://congol.net) - An online server for playing a competetive multiplayer version of Conway's Game of Life.
 <!--* [ideaspot.org](https://ideaspot.org) - A website where users can share and build each others ideas.-->
 
+My resume can be found [here](https://github.com/lukew3/resume/releases/latest/download/resume.pdf)
 
 ![](https://hit.yhype.me/github/profile?user_id=47042841)

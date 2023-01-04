@@ -9,7 +9,7 @@ Check out these things that I've made:
 * [congol.net](https://congol.net) - An online server for playing a competetive 2 player version of Conway's Game of Life.
 <!--* [ideaspot.org](https://ideaspot.org) - A website where users can share and build each others ideas.-->
 
-<a href="https://github.com/lukew3/resume/releases/latest/download/lukew3_resume.pdf"><img src="https://img.shields.io/badge/-View%20My%20Resume-blue" ></a>
+<a href="https://github.com/lukew3/resume/releases/latest/download/lukew3_resume.pdf"><img src="https://img.shields.io/badge/-View%20My%20Full%20Resume-blue" ></a>
 
 My resume is built automatically using jsonresume and a system of Github actions I created [here](https://github.com/lukew3/resume)
 

@@ -11,6 +11,6 @@ Check out these things that I've made:
 
 <a href="https://github.com/lukew3/resume/releases/latest/download/lukew3_resume.pdf"><img src="https://img.shields.io/badge/-Download%20My%20Resume-blue" ></a>
 
-The resume is built automatically using jsonresume and a system of Github actions I created [here](https://github.com/lukew3/resume)
+My resume is built automatically using jsonresume and a system of Github actions I created [here](https://github.com/lukew3/resume)
 
 ![](https://hit.yhype.me/github/profile?user_id=47042841)

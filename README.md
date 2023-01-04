@@ -9,6 +9,8 @@ Check out these things that I've made:
 * [congol.net](https://congol.net) - An online server for playing a competetive 2 player version of Conway's Game of Life.
 <!--* [ideaspot.org](https://ideaspot.org) - A website where users can share and build each others ideas.-->
 
-My resume can be downloaded [here](https://github.com/lukew3/resume/releases/latest/download/lukew3_resume.pdf). It's built automatically using jsonresume and a system of Github actions I created [here](https://github.com/lukew3/resume)
+<a href="https://github.com/lukew3/resume/releases/latest/download/lukew3_resume.pdf"><img src="https://img.shields.io/badge/-Download%20My%20Resume-blue" ></a>
+
+The resume is built automatically using jsonresume and a system of Github actions I created [here](https://github.com/lukew3/resume)
 
 ![](https://hit.yhype.me/github/profile?user_id=47042841)

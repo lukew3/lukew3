@@ -7,7 +7,7 @@ I like to make stuff. If you want to hire me, I'm open to Summer 2024 internship
 
 [📧 Email me at lukew25073@gmail.com](mailto:lukew25073@gmail.com)
 
-#### Some things I made:
+#### Some things I've made:
 * [mathgenerator](https://github.com/lukew3/mathgenerator) - A math problem generator with a large variety of problem types, usable as a python package.
 * [stemplayeronline.com](https://stemplayeronline.com) - A website that allows users to mix music using a stem player in their browser.
 * [3cards.io](https://3cards.io) - Flashcards stored on web3. Runs at 0 cost, allowing for completely free and unblockable education.

@@ -1,6 +1,8 @@
 
 ### Hi there 👋
 
+I like to make stuff. If you want to hire me, I'm open to Summer 2024 internships and part time work starting September 2024. [Link to my resume](https://github.com/lukew3/resume/releases/latest/download/lukew3_resume.pdf)
+
 Check out these things that I've made:
 * [mathgenerator](https://github.com/lukew3/mathgenerator) - A math problem generator with a large variety of problem types, usable as a python package.
 * [stemplayeronline.com](https://stemplayeronline.com) - A website that allows users to mix music using a stem player in their browser.
@@ -8,9 +10,6 @@ Check out these things that I've made:
 * [ideaspot.org](https://ideaspot.org) - A website where users can share and build each others ideas.
 * [congol.net](https://congol.net) - An online server for playing a competitive 2 player version of Conway's Game of Life.
 <!--* [ideaspot.org](https://ideaspot.org) - A website where users can share and build each others ideas.-->
-
-[View my full resume](https://github.com/lukew3/resume/releases/latest/download/lukew3_resume.pdf)
-
-My resume is built automatically using jsonresume and a system of Github actions I created [here](https://github.com/lukew3/resume)
+* [lukew3/resume](https://github.com/lukew3/resume) - Github Actions CI to build a pdf of my resume from jsonresume and latex template.
 
 ![](https://hit.yhype.me/github/profile?user_id=47042841)

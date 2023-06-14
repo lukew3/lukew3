@@ -13,7 +13,7 @@ I like to make stuff. If you want to hire me, I'm open to Summer 2024 internship
 * [3cards.io](https://3cards.io) - Flashcards stored on web3. Runs at 0 cost, allowing for completely free and unblockable education.
 * [ideaspot.org](https://ideaspot.org) - A website where users can share and build each others ideas.
 * [congol.net](https://congol.net) - An online server for playing a competitive 2 player version of Conway's Game of Life.
-<!--* [ideaspot.org](https://ideaspot.org) - A website where users can share and build each others ideas.-->
 * [lukew3/resume](https://github.com/lukew3/resume) - Github Actions CI to build a pdf of my resume from jsonresume and latex template.
+<!--* [ideaspot.org](https://ideaspot.org) - A website where users can share and build each others ideas.-->
 
 ![](https://hit.yhype.me/github/profile?user_id=47042841)

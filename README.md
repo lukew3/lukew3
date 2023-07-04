@@ -1,7 +1,9 @@
 
 ### Hi there 👋
 
-I like to make stuff. If you want to hire me, I'm open to Summer 2024 internships and/or part time work starting September 2023.
+I like to make stuff.
+
+If you want to hire me, I'm open to Summer 2024 internships and/or part time work starting September 2023.
 
 [📄 See my resume](https://github.com/lukew3/resume/releases/latest/download/lukew3_resume.pdf)
 

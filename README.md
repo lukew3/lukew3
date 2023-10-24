@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I like to make stuff.
+I'm always building, follow me to see what I build next.
 
 If you want to hire me, I'm open to Summer 2024 internships and/or part time work starting sooner.
 

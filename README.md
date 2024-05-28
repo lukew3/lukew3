@@ -16,7 +16,7 @@ If you want to hire me, I'm open to offers starting January 2025 after my gradua
 * [3cards](https://lukew3-3cards.netlify.app) - Flashcards on web3. Runs at 0 cost, allowing for completely free and unblockable education.
 * [ideaspot.org](https://ideaspot.org) - A website where users can share and build each others ideas.
 * [congol.net](https://congol.net) - An online server for playing a competitive 2 player version of Conway's Game of Life.
-* [synctify](https://synctify.app) - Perfectly sync a moment in your life with a moment in a song
+* [dropsync](https://dropsync.app) - Perfectly sync a moment in your life with a moment in a song
 * [lukew3/resume](https://github.com/lukew3/resume) - Github Actions CI to build a pdf of my resume from jsonresume and latex template.
 <!--* [ideaspot.org](https://ideaspot.org) - A website where users can share and build each others ideas.-->
 

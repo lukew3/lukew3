@@ -12,6 +12,7 @@ If you want to hire me, I'm open to offers starting January 2025 after my gradua
 #### Some things I've made:
 * [mathgenerator](https://github.com/lukew3/mathgenerator) - A math problem generator with a large variety of problem types, usable as a python package.
 * [stemplayeronline.com](https://beta.stemplayeronline.com) - A website that allows users to mix music using a stem player in their browser.
+* [Paint Launcher](https://play.google.com/store/apps/details?id=com.lukew3.paintlauncher) - An Android home screen (launcher) replacement that allows you to launch apps with custom tap zones instead of icons. (Still in testing, join [testers Google Group](https://groups.google.com/g/paint-launcher-testers) to get access)
 * [3cards](https://lukew3-3cards.netlify.app) - Flashcards on web3. Runs at 0 cost, allowing for completely free and unblockable education.
 * [congol](https://congol.lukew3.com) - An online server for playing a competitive 2 player version of Conway's Game of Life.
 * [uni2db.com](https://uni2db.com) - An API for public university data like courses offered. Powered by open-source web scrapers.

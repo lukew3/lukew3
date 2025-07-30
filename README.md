@@ -3,7 +3,7 @@
 
 I'm always building, follow me to see what I build next.
 
-If you want to hire me, I'm open to offers starting January 2025 after my graduation.
+If you like what I do, I'm open to new roles.
 
 [📄 See my resume](https://github.com/lukew3/resume/releases/latest/download/lukew3_resume.pdf)
 

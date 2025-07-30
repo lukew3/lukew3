@@ -3,7 +3,7 @@
 
 I'm always building, follow me to see what I build next.
 
-If you like what I do, I'm open to new roles.
+If you like what I do, I'm open to be hired
 
 [📄 See my resume](https://github.com/lukew3/resume/releases/latest/download/lukew3_resume.pdf)
 
